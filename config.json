@@ -1,0 +1,6 @@
+{
+  "excel_file_name": "test.xlsx",
+  "input_sheet_name": "test_input",
+  "output_sheet_name": "test_output",
+  "request_interval_in_millis": 300
+}
